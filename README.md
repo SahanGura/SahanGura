@@ -1,17 +1,53 @@
-# Hi there, I'm **Sahan Gurusinghe** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
+# Hi, I'm Sahan 👋
 
-:mailbox: Reach me out!
+**Software Engineer | C++ | Robotics & Autonomous Systems**
 
-[![Mail Badge](https://img.shields.io/static/v1?message=sahangurusinghe&logo=gmail&labelColor=ea4335&color=ea4335&logoColor=white&label=%20)](mailto:sahangurusinghe26@gmail.com) [![Linkedin Badge](https://img.shields.io/static/v1?message=sahangurusinghe&logo=linkedin&labelColor=0077b5&color=0077b5&logoColor=white&label=%20)](https://www.linkedin.com/in/gurusinghesahan/) [![Mail Badge](https://img.shields.io/static/v1?message=@sahan_guraa._&logo=instagram&labelColor=8a3ab9&color=8a3ab9&logoColor=white&label=%20)](https://www.instagram.com/sahan_guraa._/) 
+I'm a software engineer with **4+ years of professional experience in high-performance C++ development and Python engineering**, primarily in financial technology and backend systems.
 
+Currently pursuing an **MSc in Computational Engineering (Automatic Control)** at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Germany.
 
-I'm **Sahan Gurusinghe**, an Electronic and Telecommunication Engineer and a Developer,extremely passionate about modern technology and learning new concepts. During my undergraduate period I have engaged in various challenging projects related to computer vision, deep learning, robotics, data science, etc. I am using github as a valuable tool for version controlling and collabarate with others for the development of defferent kind of projects.
+I'm passionate about building reliable, high-performance software and exploring the intersection of **robotics, control systems, computer vision and intelligent autonomous systems**.
 
-### Skills and Experiences: 
-Computer Vision, Deep Learning, NLP, Robotics, Internet of Things
+### 🔭 Current Focus
 
-### Interests 💭 
+- Modern C++ and high-performance computing
+- Robotics software development with ROS 2
+- Control systems and state estimation
+- Computer vision and machine learning
+- Numerical methods and optimization
 
-**#ML | #AI | #Data_Science | #Software_Dev | #Robotics | #IoT | #Engineering**
+### 🛠️ Technical Skills
 
-I am passionate about solving real world problems, learning new concepts and helping make a difference in this world. Therefore, I like to work in challenging environments and take the best out of me.
+**Languages:** C++, Python
+
+**Tools & Technologies:** CMake, Git, Linux, Docker, Eigen, NumPy, Pandas
+
+**Robotics & Research:** ROS, Multi-Robot Systems, Visual-Inertial Odometry, 3D Mapping
+
+**Currently Exploring:** ROS 2, OpenCV, PyTorch, Advanced Control Systems
+
+### 🔬 Selected Research
+
+**Collaborative Ground-Aerial Multi-Robot System for Disaster Response Missions**
+
+Developed a collaborative multi-robot system using C++, Python and ROS, focusing on visual-inertial odometry and 3D mapping. Research published at IEEE ICARSC 2023.
+
+### 🎓 Education
+
+**MSc Computational Engineering (Automatic Control)** — FAU Erlangen-Nürnberg, Germany
+
+**BSc Engineering (Hons.) Electronic & Telecommunication Engineering** — University of Moratuwa, Sri Lanka
+
+### 🏆 Highlights
+
+- Winner — IEEE Region 10 Robotics Competition 2022.
+- Senior Software Engineer — London Stock Exchange Group (LSEG).
+
+### 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/gurusinghesahan/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:sahangurusinghe26@gmail.com)
+
+---
+
+*Building reliable, high-performance software for intelligent autonomous systems.*
